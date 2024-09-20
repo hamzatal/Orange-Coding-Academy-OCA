@@ -1,0 +1,290 @@
+.padingg {
+    border: 1px solid black;
+    padding: 25px 50px 75px 100px;
+    background-color: yellow;
+  }
+
+  .yellow {
+    background-color: yellow;
+    padding: 20px; 
+}
+
+  table, th, td {
+    border: 1px solid black;
+}
+.text {
+    font-size: 12px;
+    margin-left: 10px;
+}
+.word-1 {
+  color: red;
+  background-color: yellow;
+      background-color: yellow;
+
+}
+.word-2 {
+    color: blue;
+    background-color: lightgreen;
+}
+.word-3 {
+    color: green;
+    background-color: pink;
+}
+.word-4 {
+    color: purple;
+    background-color: lightblue;
+}
+.word-5 {
+    color: orange;
+    background-color: lightgray;
+}
+
+
+.form {
+  display: block;
+  margin-bottom: 15px;
+  padding: 8px;
+}
+
+.ridge {
+  border: 3px ridge gray;
+}
+
+.double {
+  border: 3px double black;
+}
+
+.solid{
+  border: 3px solid black;
+}
+
+.box-shadow {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 7px 5px 5px ;
+}
+.box1
+{
+  border: 4px solid;
+  padding: 30px;
+  background-color: yellow;
+}
+.box2
+{
+  border: 4px solid;
+  padding: 30px;
+  margin: 20px;
+  background-color: yellow;
+}
+.box3
+{
+  border: solid;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+  box-shadow:  
+  
+  inset green 0 0 0 10px, 
+  inset #e5f9f7 0 0 0 15px, 
+  inset #bfecf7 0 0 0 22px;
+
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px;
+  background-color: green;
+}
+
+.blue-bar {
+  background-color: blue;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: darkblue;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pink-bar {
+  background-color: pink;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.box4 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box5 {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 0 10px 5px blue; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: black; 
+  text-align: center;
+}
+.multi {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+  box-shadow: 6px 6px blue, 13px 13px red, 17px 17px green;
+}
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.mix {border-style: dotted dashed solid double;}
+
+
+.outer-box {
+  width: 300px;
+  padding: 20px;
+  border: 2px solid brown;
+  text-align: center;
+  position: relative; 
+  background-color: #f9f9f9;
+}
+
+.outer-box img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  border: 2px solid brown; 
+
+}
+
+.dotted-box {
+  border: 5px dotted yellow;
+  padding: 10px;
+  margin: 20px auto;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  overflow: hidden; 
+  background-color: orange;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.gray-rectangle {
+  background-color: gray;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.gray-rectangle img {
+  width: 40px;
+}
+.nav-links li {
+  display: inline;
+  margin: 0 10px;
+  color: white;
+}
+.background-section {
+  background-image: url('https://www.shutterstock.com/image-vector/pizzeria-cozy-family-cafe-oven-260nw-1936834654.jpg'); 
+  text-align: center;
+  color: white;
+}
+.red-text {
+  color: red;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 24px;
+}
+
+.images-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.images-section img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+border-radius: 5px;
+border: solid ;
+}
+
+.images-section .image1 {
+  text-align: center;
+}
+.images-section .image2 {
+  text-align: center;
+}
+
+.images-section .image3 {
+  text-align: center;
+}
+
+.button1
+{
+  background-color: yellow;
+  border-radius: 10px;
+  border: none;
+}
+.button1
+{
+  background-color: yellow;
+  border-radius: 10px;
+  border: none;
+
+}
+.button2
+{
+  background-color: yellow;
+  border-radius: 10px;
+  border: none;
+
+}
+.button3
+{
+  background-color: yellow;
+  border-radius: 10px;
+  border: none;
+
+}
+.button4
+{
+  background-color: yellow;
+  border-radius: 10px;
+  border: none;
+
+}
+.footer
+{
+  color: red;
+  text-align: center;
+}

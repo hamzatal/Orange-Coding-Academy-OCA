@@ -1,0 +1,106 @@
+.Over
+{
+text-decoration: overline;
+}
+
+.align1
+{
+    text-align:right;
+}
+.align2
+{
+    text-align:center;
+}
+.align3
+{
+    text-align:justify;
+}
+.font1
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.font2
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font3
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: #4CAF50;
+    padding: 10px;
+  }
+  
+  div.first {
+    opacity: 100%;
+  }
+  
+  div.second {
+    opacity: 50%;
+  }
+  
+  div.third {
+    opacity: 25%;
+  }
+
+  .task4
+  {
+    color: #4CAF50;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .ttask
+  {
+    background-color: #4CAF50;
+    text-align: center;
+  }
+
+  .pink
+  {
+    color: palevioletred;
+    text-shadow: 1px 1px;
+    font-weight: bold;
+
+  }
+
+  .visible {
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    overflow: visible;
+    color: blue; 
+}
+
+.hidden {
+    background-color: gray;
+    width: 200px;
+    height: 65px;
+    border: 1px solid black;
+    overflow: hidden;
+    color: green; 
+}
+
+.scroll {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    overflow: scroll;
+    color: red; 
+}
+
+.auto {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid black;
+    overflow: auto;
+    color: purple; 
+}
+.amb
+{
+    opacity: 25%;
+}

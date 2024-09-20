@@ -1,0 +1,189 @@
+.p1
+{
+    color: red;
+}
+.p2
+{
+    color: green;
+}
+.p3
+{
+    color: blue;
+}
+.p4
+{
+    color: yellow;
+}
+
+.p11
+{
+    color: aqua;
+}
+.p12
+{
+    color: red;
+
+}
+.p13
+{
+    color: blue;
+
+}
+.p14
+{
+    color: red;
+
+}
+.p15
+{
+    color:aquamarine;
+
+}
+.p16
+{
+    color: yellow;
+
+}
+#second
+{
+    color: green;
+}
+#four 
+
+{
+color: red;
+}
+
+.Css
+{
+color: green;
+}
+
+.class
+{
+color: aqua;
+}
+.text1 {
+    color:aqua;
+}
+.text2 {
+    background-color: aqua;
+    color: gray; 
+}
+
+.container1
+{
+    background-color: lightgray; 
+}
+.text1 span {
+    display: block;
+}
+.text1 .line1 {
+    color: red;
+}
+
+.text1 .line2 {
+    color: red;
+}
+
+.text1 .line3 {
+    color: blue;
+}
+
+.container2
+{
+    text-align: center;
+    background-color: pink; 
+}
+.text1 span {
+    display: block;
+}
+.text1 .line1 {
+    color: blue;
+}
+
+.text1 .line2 {
+    color: red;
+}
+
+.text1 .line3 {
+    color: blue;
+}
+.text1 .line4 {
+    color: red;
+}
+
+.selector1
+{
+    background-color: blue;
+}
+#selector2
+{
+    background-color: orange;
+}
+.selector4
+{
+background-color: palevioletred;
+}
+
+
+
+
+
+
+
+
+.contact-form {
+    max-width: 400px;
+    padding: 20px;
+    border: 4px solid ; 
+    background-color: wheat; 
+            }
+
+.contact-form h1 {
+    background-color: brown;
+    text-align: center;
+color:white
+}
+
+
+
+.contact-form input,
+.contact-form textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px; 
+    border: 1px solid #ddd; 
+}
+
+
+.contact-form button {
+    display: block; 
+    width: 95%; 
+    padding: 10px; 
+    background-color: orange; 
+}
+
+#grad1 {
+    height: 200px;
+    background-image: linear-gradient(red, yellow , blue , black);
+  }
+
+  .man
+  {
+    color: red;
+font-family:'Courier New', Courier, monospace;  }
+
+.container11
+{
+
+    background-color: wheat;
+
+}
+
+.container12
+{
+
+    background-color: green;
+
+}
