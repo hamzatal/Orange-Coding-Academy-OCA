@@ -1,0 +1,27 @@
+.cv{
+
+color: rgb(25, 199, 25);
+;
+width: 50px;
+
+}
+.cv1 {
+    background-color: white;
+}
+.info {
+    background-color: green;
+}
+.skills {
+    background-color: red;
+}
+.skill {
+    background-color: yellow;
+}
+.hide {
+    display: none;
+  }
+   
+  .myDIV:hover + .hide {
+    display: block;
+    color: red;
+  }
